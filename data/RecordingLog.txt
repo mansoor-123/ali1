@@ -1,0 +1,130 @@
+[API Trapper      ( 620: a54)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 814: 5ac)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 24c: 9e4)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 814: 464)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 814: 464)] Load Network Traffic Analyzers:
+[Network Analyzer ( 814: 464)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 814: 464)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 814: 464)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 814: 464)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 814: 464)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 814: 464)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 814: 464)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 814: 464)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 814: 4e4)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: ab0)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 24c: ab0)] Load Network Traffic Analyzers:
+[Network Analyzer ( 24c: ab0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 24c: ab0)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 24c: ab0)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 24c: ab0)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 24c: 908)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 814: 930)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 814: 464)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 814: 464)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( 814: 4e4)] "GET /favicon.ico"   
+[Network Analyzer ( 814: 4e4)]   (Sid:  1) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer ( 814: 930)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 814: 4e4)]   (Sid:  1) Server -> Client : 543 bytes  (Service=HTTP)
+[WinInet Request  ( 814: 694)] GET "http://www.bing.com/favicon.ico"
+[Network Analyzer ( 24c: 658)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 658)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( 24c: ab0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: ab0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Client -> Server @ : 275 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Server -> Client : 664 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/WebTours/index.htm"
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Client -> Server @ : 328 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Client -> Server @ : 339 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Server -> Client : 1007 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/WebTours/header.html"
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Client -> Server @ : 350 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Server -> Client : 898 bytes 
+[WinInet Request  ( 24c: 454)] GET "http://127.0.0.1:1080/WebTours/images/hp_logo.png"
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Client -> Server @ : 351 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Server -> Client : 4486 bytes 
+[WinInet Request  ( 24c: 454)] GET "http://127.0.0.1:1080/WebTours/images/webtours.png"
+[Network Analyzer ( 24c: 95c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 1021 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 5 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Client -> Server @ : 371 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Client -> Server @ : 367 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Server -> Client : 1659 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/WebTours/home.html"
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 1752 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 5 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Client -> Server @ : 382 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 976 bytes 
+[WinInet Request  ( 24c: a0c)] GET "http://127.0.0.1:1080/WebTours/images/mer_login.gif"
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Client -> Server @ : 238 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Server -> Client : 424 bytes 
+[WinInet Request  ( 24c: c28)] GET "http://127.0.0.1:1080/favicon.ico"
+[Network Analyzer ( 24c: 908)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( 24c: 908)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 24c: 95c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: ab0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 95c)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 24c: ab0)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 24c: 658)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 84c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 454)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 908)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( 24c: 84c)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 24c: 908)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( 24c: 908)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( 24c: 454)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 24c: a0c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 908)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( 24c: 658)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 24c: 908)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( 24c: a0c)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 24c: 908)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Client -> Server @ : 574 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 847 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 5 bytes 
+[WinInet Request  ( 24c: 44c)] POST "http://127.0.0.1:1080/cgi-bin/login.pl"
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Client -> Server @ : 476 bytes 
+[Network Analyzer ( 24c: c2c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: c2c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 24c: a0c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 1744 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid: 10) Client -> Server @ : 471 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 5 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home"
+[Network Analyzer ( 24c: 908)]   (Sid: 10) Server -> Client : 1154 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid: 10) Server -> Client : 5 bytes 
+[WinInet Request  ( 24c: 44c)] GET "http://127.0.0.1:1080/cgi-bin/login.pl?intro=true"
+[Network Analyzer ( 24c: 908)]   (Sid: 10) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Client -> Server @ : 502 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 1030 bytes 
+[WinInet Request  ( 24c: 658)] GET "http://127.0.0.1:1080/WebTours/images/itinerary.gif"
+[Network Analyzer ( 24c: 908)]   (Sid: 10) Server -> Client : 1023 bytes 
+[WinInet Request  ( 24c: 84c)] GET "http://127.0.0.1:1080/WebTours/images/flights.gif"
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 985 bytes 
+[Network Analyzer ( 24c: a0c)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 11)  PROXIED!
+[WinInet Request  ( 24c: 454)] GET "http://127.0.0.1:1080/WebTours/images/in_home.gif"
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Client -> Server @ : 500 bytes 
+[Network Analyzer ( 24c: 908)]   (Sid:  3) Server -> Client : 1048 bytes 
+[WinInet Request  ( 24c: c50)] GET "http://127.0.0.1:1080/WebTours/images/signoff.gif"
+[Network Analyzer ( 24c: c2c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: c2c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 24c: ab0)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: 95c)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: c28)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: ab0)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( 24c: 95c)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 24c: c28)] Request Connection: Remote Server @ 40.74.131.199:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( 24c: c88)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 24c: c88)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 24c: c90)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 24c: c90)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 24c: c8c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( 24c: c8c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer ( 24c: c84)] Address lookup for IDC1-VM-UFT12 = 192.168.1.13
+[Network Analyzer ( 24c: c84)] Request Connection: Remote Server @ 198.41.214.187:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( 24c: c80)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 24c: c80)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
