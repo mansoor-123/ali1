@@ -18,7 +18,6 @@ Failed to get information of process Id: 888
 Failed to get information of process Id: 936
 Failed to get information of process Id: 340
 Failed to get information of process Id: 460
-Failed to get information of process Id: 1032
 Failed to get information of process Id: 1112
 Failed to get information of process Id: 1136
 Failed to get information of process Id: 1320
@@ -43,7 +42,8 @@ Failed to get information of process Id: 1996
 Failed to get information of process Id: 2972
 PROCESS 0x520       httpd.exe
 PROCESS 0xaa8       httpd.exe
-Failed to get information of process Id: 668
-Failed to get information of process Id: 1348
-Failed to get information of process Id: 616
-Failed to get information of process Id: 1756
+Failed to get information of process Id: 260
+Failed to get information of process Id: 3888
+Failed to get information of process Id: 3192
+Failed to get information of process Id: 3280
+Failed to get information of process Id: 2460

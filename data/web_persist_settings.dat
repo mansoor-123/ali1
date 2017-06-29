@@ -1,6 +1,8 @@
 [StartRecordingGMT]
 StartRecordingGMT_1=2017/06/29 10:33:34
 StartRecordingIsDst_1=0
+StartRecordingGMT_2=2017/06/29 10:49:04
+StartRecordingIsDst_2=0
 [UserHomePage]
 UserHomePage=res://iesetup.dll/HardAdmin.htm
 [User-Agent]

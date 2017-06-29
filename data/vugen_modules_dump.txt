@@ -287,23 +287,53 @@
 		12.53.392.0                   C:\Program Files (x86)\HP\LoadRunner\bin\insp_gen.dll
 		12.53.392.0                   C:\Program Files (x86)\HP\LoadRunner\bin\inspdll.dll
 		12.53.392.0                   C:\Program Files (x86)\HP\LoadRunner\bin\pefile.dll
-		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_inspector.dll
-		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trpfnc32.dll
-		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\script_language_helper.dll
-		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_scrinfo.dll
 		12.53.392.0                   C:\Program Files (x86)\HP\LoadRunner\bin\HTTPSnapshotsWrapper.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapzlib.dll
-		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\Api_Filter_Helper.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\unknown_only_helper.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\type_info_pool.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\CodeGenerationAPI.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LRSDKUtilities.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\InternalSDKUtils.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VuGenCallback.dll
+		                              C:\Program Files (x86)\HP\LoadRunner\bin\pcre-8.10.dll
+		                              C:\Program Files (x86)\HP\LoadRunner\bin\duktape.dll
+		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\libeay32_lt.dll
+		10.0.10586.788 (th2_release_sec.170113-1732)C:\Windows\system32\api-ms-win-crt-conio-l1-1-0.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapicu.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\JsonParser.dll
+		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\ssleay32_lt.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\Base64Dfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\BinaryXmlDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\BinaryXmlDfeUtil.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\GwtDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\HttpHeadersDfe.dll
+		                              C:\Program Files (x86)\HP\LoadRunner\bin\JavaXmlDFE.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\JsonXmlDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\PrefixPostfixDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\RemedyDfe.dll
+		7.42.1                        C:\Program Files (x86)\HP\LoadRunner\bin\libcurl.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\UrlEncodingDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\XmlDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\AttributeEncodingDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\CSSEncodingDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\XSSDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\HtmlEncodingDfe.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\JavaScriptEncodingDfe.dll
+		12.53.392.0                   C:\Program Files (x86)\HP\LoadRunner\bin\ThreadSafeFileOperator.dll
+		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\TulipAppInfo.dll
+		6.0.3.17227                   C:\Windows\assembly\NativeImages_v4.0.30319_32\Newtonsoft.Json\aa264a6345ef0157e4d5c9a394eb5017\Newtonsoft.Json.ni.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\JsonParserWrapper.dll
+		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\SSFMgrWrapper.dll
+		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\RealFileSystem.dll
+		11.00.9600.18698 (winblue_ltsb.170514-0830)C:\Windows\SysWOW64\jscript9.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_inspector.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trpfnc32.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\script_language_helper.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_scrinfo.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\Api_Filter_Helper.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\lrc_basic_filters.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_event_parser.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\traffic_filter.dll
-		                              C:\Program Files (x86)\HP\LoadRunner\bin\pcre-8.10.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_sock_filter.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\ipng_utils.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebDataFormatsCodeGen.dll
@@ -315,10 +345,7 @@
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebHTMLCodeGen.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebRecorder.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrwiWebInfra.dll
-		                              C:\Program Files (x86)\HP\LoadRunner\bin\duktape.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\http_auth.dll
-		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\libeay32_lt.dll
-		10.0.10586.788 (th2_release_sec.170113-1732)C:\Windows\system32\api-ms-win-crt-conio-l1-1-0.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\lrun50.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trans.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\lr_exp.dll
@@ -330,7 +357,6 @@
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\dc_requests.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\merc_uuid.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\faserver.dll
-		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapicu.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrXml.dll
 		1, 10, 0, 0                   C:\Program Files (x86)\HP\LoadRunner\bin\Xalan-C_1_10Mic.dll
 		2, 7, 0                       C:\Program Files (x86)\HP\LoadRunner\bin\xerces-c_2_7.dll
@@ -338,8 +364,6 @@
 		3, 6, 0, 0                    C:\Program Files (x86)\HP\LoadRunner\bin\icuin36.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VnpReport.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrJson.dll
-		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\JsonParser.dll
-		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\ssleay32_lt.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebCorrelation.dll
 		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrwiStreamingParser.dll
 		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\jconv_str.dll
